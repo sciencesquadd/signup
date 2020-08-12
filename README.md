@@ -8,4 +8,6 @@ To apply for Science Squad, please make sure that you have Node.js and NPM insta
 Use "cd yourfolderhere" to navigate!
 ### Step 4: Run "npm start" to start the application.
 ### Step 5: Wait for the form to load, and then fill it in.
+
+## Or.... just go to (this link)[sciencesquadd.github.io/signup] to get the form!
 Have a nice day!
